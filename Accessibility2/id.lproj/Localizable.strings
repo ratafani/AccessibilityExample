@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Accessibility2
+
+  Created by Muhammad Tafani Rabbani on 10/06/20.
+  Copyright © 2020 Muhammad Tafani Rabbani. All rights reserved.
+*/
+
+"en-EN" = "id-ID";
+
+"welcoming user"  = "Selamat datang di Counter App, untuk menambah counter, sentuk tombol dibagian bawah kanan, untuk mengurangi counter, sentuh tombol dibagian bawah kiri";
+
+"counter increased, now its," = "counter bertambah, sekarang menjadi";
+
+"counter decreased, now its," = "counter berkurang, sekarang menjadi";

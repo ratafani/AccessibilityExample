@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Accessibility2
+
+  Created by Muhammad Tafani Rabbani on 10/06/20.
+  Copyright © 2020 Muhammad Tafani Rabbani. All rights reserved.
+*/
+
+"en-EN" = "en-EN";
+
+"welcoming user" = "Welcome to Counter App, to increase the counter, tap the button on the bottom right, to decrease the counter, tap the button on the bottom left";
+
+"counter increased, now its," = "counter increased, now its,";
+
+"counter decreased, now its," = "counter decreased, now its,";
